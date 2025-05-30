@@ -6,3 +6,20 @@ body {
   height: 100vh;
   font-family: Arial, sans-serif;
 }
+
+.calculadora {
+  background-color: white;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+  width: 300px;
+}
+
+.pantalla {
+  background-color: #222;
+  color: white;
+  font-size: 2.5rem;
+  text-align: right;
+  padding: 20px;
+  height: 80px;
+}

@@ -25,7 +25,7 @@ botones.forEach(boton => {
       }
       return;
     }
-    
+
     if (pantalla.textContent === '0' && valor !== '.') {
       pantalla.textContent = valor;
     } else {
@@ -35,3 +35,4 @@ botones.forEach(boton => {
     operacion += valor;
   });
 });
+

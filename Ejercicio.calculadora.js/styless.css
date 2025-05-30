@@ -1,5 +1,5 @@
 body {
-  background-color: #b2dfee;
+  background-color: #df69c2;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -11,12 +11,12 @@ body {
   background-color: white;
   border-radius: 20px;
   overflow: hidden;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+  box-shadow: 0 4px 10px rgba(14, 4, 4, 0.3);
   width: 300px;
 }
 
 .pantalla {
-  background-color: #222;
+  background-color: #0f0a0a;
   color: white;
   font-size: 2.5rem;
   text-align: right;
@@ -42,11 +42,11 @@ button:hover {
 }
 
 .operador {
-  background-color: #e6e6e6;
+  background-color: #a7dee8;
 }
 
 #igual {
   grid-row: span 4;
-  background-color: #f87d2c;
+  background-color: #130e1a;
   color: white;
  }
